@@ -11,6 +11,8 @@ O projeto é divido em três partes:
 
 ## Funcionalidades
 
+![alt text](https://github.com/thiagobelem/FindHouse.API/blob/master/src/FindHouse.API/swagger.png?raw=true)
+
 ## Utilizado
 
 - .NET 5
